@@ -5,7 +5,6 @@ function App() {
 	return (
 		<>
 			<Navbar />
-			<h1>Meme Generator</h1>
 		</>
 	);
 }
